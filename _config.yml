@@ -1,16 +1,15 @@
 
-title: Online CV
+title: Francisco Leal CV
 url: 'http://franciscomleal.github.io/'
-baseurl: '/' #change it according to your repository name
+baseurl: '' #change it according to your repository name
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
-style: styles-2
+#style: styles-2
 #style: styles-3
 #style: styles-4
 #style: styles-5
-#style: styles-6
-
+style: styles-6
 
 #Profile information
 name: Francisco Leal
